@@ -8,7 +8,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
 
     classifiers=[
-         name="<rouls>",
+        name="<rouls>",
 
         "Programming Language :: Python :: 3",
 
